@@ -191,6 +191,7 @@ body {
   padding: 2rem 1rem;
   background: #fafafa;
   font-weight: bold;
+  gap: 2em;
 }
 
 .beneficio {
